@@ -1,0 +1,6 @@
+.vscode
+copy.sh
+.sconsign.dblite
+
+/bin/*
+!/bin/.gitkeep
